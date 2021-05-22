@@ -1,0 +1,15 @@
+{
+  "name": "EasyDim",
+  "title" : "EasyDim",
+  "keywords": "EasyDim",
+  "description": "Dimmer light on your lamp with your MCU",
+  "homepage": "https://www.artronshop.co.th/",
+  "license": "MIT",
+  "git": "https://github.com/artronshop/EasyDim-Arduino",
+  "author": "Artron Shop",
+  "email": "contact@artronshop.com",
+  "url": "https://www.artronshop.co.th/",
+  "version": "1.0.0",
+  "platform": ["arduino-esp32", "arduino-avr"],
+  "image" : "/static/cover.jpg"
+}
